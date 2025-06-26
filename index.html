@@ -22,11 +22,11 @@
                 <input type="hidden" id="task-id">
                 <div class="form-control">
                     <label for="task-title">Título</label>
-                    <input type="text" id="task-title" placeholder="Ex: adesivo, lona, recorte" required>
+                    <input type="text" id="task-title" placeholder="Ex: Estudar JavaScript avançado" required>
                 </div>
                 <div class="form-control">
                     <label for="task-description">Descrição</label>
-                    <textarea id="task-description" rows="4" placeholder="Ex: quantidade, oq tem dentro do arquivo, etc."></textarea>
+                    <textarea id="task-description" rows="4" placeholder="Ex: Revisar Promises, Async/Await..."></textarea>
                 </div>
                 <button type="submit" class="btn btn-primary">
                     <i class="fa-solid fa-save"></i> Salvar Tarefa
@@ -55,17 +55,20 @@
                     <i class="fa-solid fa-plus"></i> Adicionar Tarefa
                 </button>
             </section>
-
+            
             <section id="task-list-container">
                 </section>
         </main>
     </div>
-
+    
     <footer>
         <p class="watermark">Feito por Warleandro Nascimento</p>
         <p class="watermark-small">Desenvolvido no Brasil</p>
     </footer>
 
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
+    
     <script src="script.js"></script>
 </body>
 </html>
