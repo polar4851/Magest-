@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1672531200000,
+    "title": "Estudar JavaScript Avançado",
+    "description": "Revisar conceitos de Promises, Async/Await e o event loop.",
+    "completed": false
+  },
+  {
+    "id": 1672617600000,
+    "title": "Criar Projeto de Portfólio",
+    "description": "Desenvolver a aplicação de tarefas com modo dark/light.",
+    "completed": true
+  },
+  {
+    "id": 1672704000000,
+    "title": "Fazer compras de supermercado",
+    "description": "Comprar frutas, vegetais e produtos de limpeza.",
+    "completed": false
+  }
+]
