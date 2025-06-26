@@ -4,8 +4,8 @@ Cansado de listas de tarefas que parecem ter sido desenhadas em 1998? Seus probl
 
 <br>
 
-![Prévia do Magestá em Ação](https://i.imgur.com/gKqCExX.gif)
-*Magestá em ação (porque ver um GIF é melhor que ler mil palavras)*
+![Kawaii cat]([https://i.imgur.com/gKqCExX.gif](https://imgur.com/gallery/anime-gif-dump-heheheh-dump-7ul3f#WTq20Sz))
+*Magestá (ver um GIF é melhor que ler mil palavras)*
 
 ---
 
